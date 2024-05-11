@@ -7,7 +7,7 @@
 <hr>
 <p>Anda dapat menggunakan aplikasi web ini untuk menambahkan dukungan palestina ke gambar profil.</p>
 
-<P id='full'>
+<p id='full'>
 <p><canvas></canvas></p>
 
 <p>
@@ -32,7 +32,7 @@
 <button data-modal="#modal2">Tutorial?</button>
 </p>
 
-<div class="modal modal-medium" data-modal-window id="modal2">
+<p class="modal modal-medium" data-modal-window id="modal2">
 <a  class="close" data-modal-close href="#">x</a>
 <h3>Tutorial:</h3>
 <hr>
@@ -98,20 +98,20 @@
 </p>
 
     
-<div id="intro" style="display:none;">
-<div id="choose">选择类型...</div>
-<div id="choice">
-<div id="choice-full" class="myth">
-<div>全景</div>
-</div>
-<div id="choice-divide" class="myth">
-<div>分割</div>
-</div>
-</div>
-<div id="return-intro" class="myth">
-<div>更改类型</div>
-</div>
-</div>
+<p id="intro" style="display:none;">
+<p id="choose">...</div>
+<p id="choice">
+<p id="choice-full" class="myth">
+<p>...</p>
+</p>
+<p id="choice-divide" class="myth">
+<p>...</p>
+</p>
+</p>
+<p id="return-intro" class="myth">
+<p>...</p>
+</p>
+</p>
   
 </article>
 
