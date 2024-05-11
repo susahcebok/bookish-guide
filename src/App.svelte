@@ -113,12 +113,12 @@
 </article>
 
 <style>
-	main {
-		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
-	}
+       article {
+               margin: 5em auto;
+               padding-top: 1rem;
+               padding-bottom: 1rem;
+               padding: 2rem;
+       }
 
 	h1 {
 		color: #ff3e00;
