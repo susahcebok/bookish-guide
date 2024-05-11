@@ -10,11 +10,7 @@
 <div id='full'>
 <p><canvas></canvas></p>
 
-<p>
-<label class="dropbox" for="full-img" style="text-align: center;">letakkan file atau klik unggah.</label>
-<input type="file" id="full-img" accept="image/*" aria-label="Select the picture you want to use" hidden>
-</p>
-
+<p><label class="dropbox" for="full-img" style="text-align: center;">letakkan file atau klik unggah.</label><input type="file" id="full-img" accept="image/*" aria-label="Select the picture you want to use" hidden></p>
 
 <div class="row">
 <div class="column">
@@ -27,10 +23,7 @@
 </div>
 </div>
     
-<p>
-<button id="click" class="save myth" disabled>Unduh</button>
-<button data-modal="#modal2">Tutorial?</button>
-</p>
+<p><button id="click" class="save myth" disabled>Unduh</button><button data-modal="#modal2">Tutorial?</button></p>
 
 <div class="modal modal-medium" data-modal-window id="modal2">
 <a  class="close" data-modal-close href="#">x</a>
@@ -46,9 +39,13 @@
 <p>Saatnya menggunakan gambar profil baru Anda! Cukup tekan tombol <em>Unduh</em> foto yang Anda buat untuk menyimpannya secara instan. Bagikan dukungan Anda untuk Palestina dengan foto profil unik Anda.</p>
 
 <p>Apakah jawaban ini bermanfaat bagi Anda?</p>
+
+<p>
 <button data-modal-close>Ya</button> 
 <button data-modal-close>Tidak</button>
 </p>
+
+</div>
 
 <p>
 <small>
