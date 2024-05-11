@@ -1,7 +1,7 @@
 {
-    "name": "Simple Web Twibbon",
+    "name": "PFP Palestine Web Twibbon",
     "short_name": "Twibbon",
-    "description": "Simple Web Twibbon",
+    "description": "PFP Palestine Web Twibbon",
     "icons": [
         {
             "src": "/img/android-chrome-192x192.png",
@@ -17,13 +17,13 @@
     ],
     "screenshots": [
         {
-            "src": "",
-            "sizes": "1000x1600",
+            "src": "/img/screenshot01.png",
+            "sizes": "720x1588",
             "type": "image/jpeg"
         },
         {
             "src": "",
-            "sizes": "1000x1600",
+            "sizes": "720x1588",
             "type": "image/jpeg"
         }
     ],
