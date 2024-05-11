@@ -3,11 +3,11 @@
 </script>
 
 <article>
-<h1>#FREEPALESTINE {name}</h1>
+<h1>PFP {name}</h1>
 <hr>
 <p>Anda dapat menggunakan aplikasi web ini untuk menambahkan dukungan palestina ke gambar profil.</p>
 
-<div id='full'>
+<P id='full'>
 <p><canvas></canvas></p>
 
 <p>
@@ -16,16 +16,16 @@
 </p>
 
 
-<div class="row">
-<div class="column">
+<p class="row">
+<p class="column">
 <label for='full-zoom'>Zoom (<span id="fz"></span>) :</label>
 <p><input type='range' id='full-zoom' min='0' max='2' step='0.01' value='1'></p>
-</div>
-<div class="column">
+</p>
+<p class="column">
 <label for='full-alpha'>Filter (<span id="fa">0.5</span>) :</label>
 <p><input type='range' id='full-alpha' min='0' max='1' step='0.01' value='0.5'></p>
-</div>
-</div>
+</p>
+</p>
     
 <p>
 <button id="click" class="save myth" disabled>Unduh</button>
@@ -56,46 +56,46 @@
 <strong>Catatan:</strong> Aplikasi ini berjalan murni di browser Anda. Tidak ada gambar atau data yang akan disimpan oleh aplikasi.
 </small>
 </p> 
-</div><!-- full -->
+</p>
 
-<div id='divide' style="display:none;">
-<div class="canvas-container">
+<p id='divide' style="display:none;">
+<p class="canvas-container">
 <canvas></canvas>
-</div>
-<div class="form-group">
-<div class="left">
+</p>
+<p class="form-group">
+<p class="left">
 <input type='file' id='divide-left-img' accept='image/*'>
-</div>
-<div class="right">
+</p>
+<p class="right">
 <input type='file' id='divide-right-img' accept='image/*'>
-</div>
-</div>
-<div class="form-group">
-<div class="left">
+</p>
+</p>
+<p class="form-group">
+<p class="left">
 <label for='divide-left-zoom'>Zoom</label>
 <input type='range' id='divide-left-zoom' min='0' max='1' step='0.01' value='1'>
-</div>
-<div class="right">
+</p>
+<p class="right">
 <label for='divide-right-zoom'>Zoom</label>
 <input type='range' id='divide-right-zoom' min='0' max='1' step='0.01' value='1'>
-</div>
-</div>
-<div class="form-group">
-<div class="left">
+</p>
+</p>
+<p class="form-group">
+<p class="left">
 <label for='divide-left-alpha'>Filter</label>
 <input type='range' id='divide-left-alpha' min='0' max='1' step='0.01' value='0.5'>
-</div>
-<div class="right">
+</p>
+<p class="right">
 <label for='divide-right-alpha'>Filter</label>
 <input type='range' id='divide-right-alpha' min='0' max='1' step='0.01' value='0.5'>
-</div>
-</div>
-<div class="form-group">
-<div class="save myth">
-<div>Unduh</div>
-</div>
-</div>
-</div>
+</p>
+</p>
+<p class="form-group">
+<p class="save myth">
+<p>Unduh</p>
+</p>
+</p>
+</p>
 
     
 <div id="intro" style="display:none;">
