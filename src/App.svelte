@@ -36,7 +36,6 @@
 <a  class="close" data-modal-close href="#">x</a>
 <h3>Tutorial:</h3>
 <hr>
-<p>
 <h2>Unggah Foto Anda</h2>
 <p>Mulailah transformasi dengan cepat dengan mengunggah foto pilihan Anda menggunakan tombol <em>Letakkan file gambar di sini atau klik untuk mengunggah.</em></p>
 
@@ -45,12 +44,12 @@
 
 <h2>Unduh Foto Profil Anda</h2>
 <p>Saatnya menggunakan gambar profil baru Anda! Cukup tekan tombol <em>Unduh</em> foto yang Anda buat untuk menyimpannya secara instan. Bagikan dukungan Anda untuk Palestina dengan foto profil unik Anda.</p>
-</p>
 
 <p>Apakah jawaban ini bermanfaat bagi Anda?</p>
 <button data-modal-close>Ya</button> 
 <button data-modal-close>Tidak</button>
-</div>
+</p>
+
 <p>
 <small>
 <strong>Catatan:</strong> Aplikasi ini berjalan murni di browser Anda. Tidak ada gambar atau data yang akan disimpan oleh aplikasi.
