@@ -7,7 +7,7 @@
 <hr>
 <p>Anda dapat menggunakan aplikasi web ini untuk menambahkan dukungan palestina ke gambar profil.</p>
 
-<p id='full'>
+<div id='full'>
 <p><canvas></canvas></p>
 
 <p>
@@ -16,23 +16,23 @@
 </p>
 
 
-<p class="row">
-<p class="column">
+<div class="row">
+<div class="column">
 <label for='full-zoom'>Zoom (<span id="fz"></span>) :</label>
-<p><input type='range' id='full-zoom' min='0' max='2' step='0.01' value='1'></p>
-</p>
-<p class="column">
+<input type='range' id='full-zoom' min='0' max='2' step='0.01' value='1'>
+</div>
+<div class="column">
 <label for='full-alpha'>Filter (<span id="fa">0.5</span>) :</label>
-<p><input type='range' id='full-alpha' min='0' max='1' step='0.01' value='0.5'></p>
-</p>
-</p>
+<input type='range' id='full-alpha' min='0' max='1' step='0.01' value='0.5'>
+</div>
+</div>
     
 <p>
 <button id="click" class="save myth" disabled>Unduh</button>
 <button data-modal="#modal2">Tutorial?</button>
 </p>
 
-<p class="modal modal-medium" data-modal-window id="modal2">
+<div class="modal modal-medium" data-modal-window id="modal2">
 <a  class="close" data-modal-close href="#">x</a>
 <h3>Tutorial:</h3>
 <hr>
@@ -55,46 +55,47 @@
 <strong>Catatan:</strong> Aplikasi ini berjalan murni di browser Anda. Tidak ada gambar atau data yang akan disimpan oleh aplikasi.
 </small>
 </p> 
-</p>
 
-<p id='divide' style="display:none;">
-<p class="canvas-container">
+</div>
+
+<div id='divide' style="display:none;">
+<div class="canvas-container">
 <canvas></canvas>
-</p>
-<p class="form-group">
-<p class="left">
+</div>
+<div class="form-group">
+<div class="left">
 <input type='file' id='divide-left-img' accept='image/*'>
-</p>
-<p class="right">
+</div>
+<div class="right">
 <input type='file' id='divide-right-img' accept='image/*'>
-</p>
-</p>
-<p class="form-group">
-<p class="left">
+</div>
+</div>
+<div class="form-group">
+<div class="left">
 <label for='divide-left-zoom'>Zoom</label>
 <input type='range' id='divide-left-zoom' min='0' max='1' step='0.01' value='1'>
-</p>
-<p class="right">
+</div>
+<div class="right">
 <label for='divide-right-zoom'>Zoom</label>
 <input type='range' id='divide-right-zoom' min='0' max='1' step='0.01' value='1'>
-</p>
-</p>
-<p class="form-group">
-<p class="left">
+</div>
+</div>
+<div class="form-group">
+<div class="left">
 <label for='divide-left-alpha'>Filter</label>
 <input type='range' id='divide-left-alpha' min='0' max='1' step='0.01' value='0.5'>
-</p>
-<p class="right">
+</div>
+<div class="right">
 <label for='divide-right-alpha'>Filter</label>
 <input type='range' id='divide-right-alpha' min='0' max='1' step='0.01' value='0.5'>
-</p>
-</p>
-<p class="form-group">
-<p class="save myth">
-<p>Unduh</p>
-</p>
-</p>
-</p>
+</div>
+</div>
+<div class="form-group">
+<div class="save myth">
+<div>Unduh</div>
+</div>
+</div>
+</div>
 
     
 <p id="intro" style="display:none;">
