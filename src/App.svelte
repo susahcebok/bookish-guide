@@ -98,20 +98,20 @@
 </div>
 
     
-<p id="intro" style="display:none;">
-<p id="choose">...</div>
-<p id="choice">
-<p id="choice-full" class="myth">
-<p>...</p>
-</p>
-<p id="choice-divide" class="myth">
-<p>...</p>
-</p>
-</p>
-<p id="return-intro" class="myth">
-<p>...</p>
-</p>
-</p>
+<div id="intro" style="display:none;">
+<div id="choose">...</div>
+<div id="choice">
+<div id="choice-full" class="myth">
+<div>...</div>
+</div>
+<div id="choice-divide" class="myth">
+<div>...</div>
+</div>
+</div>
+<div id="return-intro" class="myth">
+<div>...</div>
+</div>
+</div>
   
 </article>
 
