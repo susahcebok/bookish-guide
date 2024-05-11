@@ -30,13 +30,13 @@
 <h3>Tutorial:</h3>
 <hr>
 <h2>Unggah Foto Anda</h2>
-<p>Mulailah transformasi dengan cepat dengan mengunggah foto pilihan Anda menggunakan tombol <em>Letakkan file gambar di sini atau klik untuk mengunggah.</em></p>
+<p>Mulailah transformasi dengan cepat dengan mengunggah foto pilihan Anda menggunakan tombol <em><strong>Letakkan file gambar di sini atau klik untuk mengunggah.</strong></em></p>
 
 <h2>Zoom dan Filter</h2>
 <p>Sesuaikan gambar Anda dengan tepat dalam bingkai #Palestine. Editor kami memungkinkan Anda memotong dan memposisikan dengan mudah, memastikan gambar profil Anda mencerminkan gaya dan pesan Anda dengan sempurna.</p>  
 
 <h2>Unduh Foto Profil Anda</h2>
-<p>Saatnya menggunakan gambar profil baru Anda! Cukup tekan tombol <em>Unduh</em> foto yang Anda buat untuk menyimpannya secara instan. Bagikan dukungan Anda untuk Palestina dengan foto profil unik Anda.</p>
+<p>Saatnya menggunakan gambar profil baru Anda! Cukup tekan tombol <em><strong>Unduh</strong></em> foto yang Anda buat untuk menyimpannya secara instan. Bagikan dukungan Anda untuk Palestina dengan foto profil unik Anda.</p>
 
 <p>Apakah jawaban ini bermanfaat bagi Anda?</p>
 
