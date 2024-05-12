@@ -214,8 +214,7 @@ thead {
 button {
   padding: 10px 25px;
   margin: 0 0 8px 0;
-  margin-right: 1rem;
-  margin-left: 1rem;
+  margin-right: 0;
   text-transform: uppercase;
   font-weight: bold;
   border-radius: 0.5rem;
