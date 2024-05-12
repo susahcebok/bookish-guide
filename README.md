@@ -4,6 +4,8 @@
 
 Tunjukkan dukungan kepada Palestina dengan mengubah foto profil Anda.
 
+<img src="https://savegazza.netlify.app/img/og.png">
+
 ## Catatan
 
 Aplikasi ini berjalan murni di browser Anda. Tidak ada gambar atau data yang akan disimpan oleh aplikasi.
