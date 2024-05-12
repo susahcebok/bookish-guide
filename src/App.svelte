@@ -41,8 +41,8 @@
 <h2>Zoom and Filters</h2>
 <p>Fit your image appropriately in #Palestine frame. Our editor lets you crop and position easily, ensuring your profile picture perfectly reflects your style and message.</p>
 
-<h2>Unduh Foto Profil Anda</h2>
-<p>Saatnya menggunakan gambar profil baru Anda! Cukup tekan tombol <em><strong>Unduh</strong></em> foto yang Anda buat untuk menyimpannya secara instan. Bagikan dukungan Anda untuk Palestina dengan foto profil unik Anda.</p>
+<h2>Download Your Profile Photo</h2>
+<p>It's time to use your new profile picture! Just press the <strong>Download</strong> button of the photo you created to save it instantly. Share your support for Palestine with your unique profile photo.</p>
 
 <p>Apakah jawaban ini bermanfaat bagi Anda?</p>
 
