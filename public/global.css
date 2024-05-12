@@ -212,15 +212,32 @@ thead {
 /* custom css */
 
 button {
-  padding: 10px 25px;
-  margin: 0 0 8px 0;
   text-transform: uppercase;
-  font-weight: bold;
-  border-radius: 0.5rem;
+  font-family: inherit;
+	font-size: inherit;
+	padding: 0.4em;
+	margin: 0 0 0.5em 0;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	border-radius: 2px;
 }
 
-button:hover {
-  cursor: not-allowed;
+button {
+	color: #333;
+	background-color: #f4f4f4;
+	outline: none;
+}
+
+button:disabled {
+	color: #999;
+}
+
+button:not(:disabled):active {
+	background-color: #ddd;
+}
+
+button:focus {
+	border-color: #666;
 }
 
 label {
