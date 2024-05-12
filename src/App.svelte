@@ -38,8 +38,8 @@
 <h2>Upload Your Photo</h2>
 <p>Start the transformation quickly by uploading a photo of your choice using the <strong>place image file here button or click to upload.</strong></p>
 
-<h2>Zoom dan Filter</h2>
-<p>Sesuaikan gambar Anda dengan tepat dalam bingkai #Palestine. Editor kami memungkinkan Anda memotong dan memposisikan dengan mudah, memastikan gambar profil Anda mencerminkan gaya dan pesan Anda dengan sempurna.</p>  
+<h2>Zoom and Filters</h2>
+<p>Fit your image appropriately in #Palestine frame. Our editor lets you crop and position easily, ensuring your profile picture perfectly reflects your style and message.</p>
 
 <h2>Unduh Foto Profil Anda</h2>
 <p>Saatnya menggunakan gambar profil baru Anda! Cukup tekan tombol <em><strong>Unduh</strong></em> foto yang Anda buat untuk menyimpannya secara instan. Bagikan dukungan Anda untuk Palestina dengan foto profil unik Anda.</p>
