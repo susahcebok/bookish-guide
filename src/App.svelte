@@ -118,7 +118,7 @@
 
 <div class="at-about-fab">
 <div class="at-about-fab__thumbnail">
-<div><img src="https://savegazza.netlify.app/img/hacker.png"></div>
+<div><img class="res" src="https://savegazza.netlify.app/img/hacker.png"></div>
 </div>
 <div class="at-about-fab__meta">
 <a href="/"><h2>FERRY AYUNDA</h2></a>
@@ -134,7 +134,10 @@
                padding: 2rem;
        }
 
-
+       .res {
+               width: 100%;
+               height: auto;
+        }
 	@media (max-width: 700px) {
         article {
                margin: 0 auto;
