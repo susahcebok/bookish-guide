@@ -213,14 +213,12 @@ thead {
 
 button {
   text-transform: uppercase;
-  font-family: inherit;
-  font-size: inherit;
   padding: 0.4rem;
   margin: 0 0 0.5rem 0;
   margin-right: 1rem;
   box-sizing: border-box;
   border: 1px solid #ccc;
-  border-radius: 2px;
+  border-radius: 3px;
 }
 
 button {
@@ -254,11 +252,6 @@ label {
   border: grey dashed;
   padding: 1rem;
   margin-bottom: 1rem; 
-}
-
-disabled {
-  opacity: 0.6;
-  cursor: not-allowed;
 }
 
 /* column */
