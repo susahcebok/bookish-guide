@@ -10,7 +10,10 @@
 <div id='full'>
 <p><canvas></canvas></p>
 
-<p><label class="dropbox" for="full-img" style="text-align: center;">letakkan file atau klik unggah.</label><input type="file" id="full-img" accept="image/*" aria-label="Select the picture you want to use" hidden></p>
+<p>
+<label class="dropbox" for="full-img" style="text-align: center;">place the file or click upload.</label>
+<input type="file" id="full-img" accept="image/*" aria-label="Select the picture you want to use" hidden>
+</p>
 
 <div class="row">
 <div class="column">
