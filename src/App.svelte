@@ -35,8 +35,8 @@
 <a  class="close" data-modal-close href="#">x</a>
 <h3>Tutorial:</h3>
 <hr>
-<h2>Unggah Foto Anda</h2>
-<p>Mulailah transformasi dengan cepat dengan mengunggah foto pilihan Anda menggunakan tombol <em><strong>Letakkan file gambar di sini atau klik untuk mengunggah.</strong></em></p>
+<h2>Upload Your Photo</h2>
+<p>Start the transformation quickly by uploading a photo of your choice using the <strong>place image file here button or click to upload.</strong></p>
 
 <h2>Zoom dan Filter</h2>
 <p>Sesuaikan gambar Anda dengan tepat dalam bingkai #Palestine. Editor kami memungkinkan Anda memotong dan memposisikan dengan mudah, memastikan gambar profil Anda mencerminkan gaya dan pesan Anda dengan sempurna.</p>  
