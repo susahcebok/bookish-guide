@@ -5,7 +5,7 @@
 <article>
 <h1>PFP {name}</h1>
 <hr>
-<p>Anda dapat menggunakan aplikasi web ini untuk menambahkan dukungan palestina ke gambar profil.</p>
+<p>You can use this web app to add Palestinian support to your profile picture.</p>
 
 <div id='full'>
 <p><canvas></canvas></p>
