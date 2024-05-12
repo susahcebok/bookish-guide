@@ -117,7 +117,7 @@
 </div>
   
 </article>
-<footer>© 2024 <a href="/">Ferry Ayunda</a></footer>
+
 <style>
        article {
                margin: 5em auto;
