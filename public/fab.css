@@ -46,4 +46,33 @@
   transform: translateY(-50%);
   overflow: hidden;
   cursor: pointer;
-}.at-about-fab__meta{font-family:"Open Sans",sans-serif;opacity:0;transition:.2s ease}.at-about-fab__meta h2,.at-about-fab__meta p{margin:0;padding:0}.at-about-fab__meta h2{color:#444;font-size:14px;font-weight:600}.at-about-fab__meta p{color:#ccc;font-size:12px;font-weight:400}.at-about-fab__meta a{color:inherit;font-weight:400;text-decoration:none}
+}
+
+.at-about-fab__meta {
+  font-family: "Open Sans",sans-serif;
+  opacity: 0;
+  transition: .2s ease;
+}
+
+.at-about-fab__meta h2,.at-about-fab__meta p {
+  margin: 0;
+  padding:0;
+}
+
+.at-about-fab__meta h2 {
+  color: #444;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.at-about-fab__meta p {
+  color: #ccc;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.at-about-fab__meta a {
+  color: inherit;
+  font-weight: 400;
+  text-decoration: none;
+}
