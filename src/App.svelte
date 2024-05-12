@@ -26,7 +26,10 @@
 </div>
 </div>
     
-<p><button id="click" class="save myth" disabled>Unduh</button><button data-modal="#modal2">Tutorial?</button></p>
+<p>
+<button id="click" class="save myth" disabled>Download</button>
+<button data-modal="#modal2">Tutorial?</button>
+</p>
 
 <div class="modal modal-medium" data-modal-window id="modal2">
 <a  class="close" data-modal-close href="#">x</a>
@@ -52,7 +55,7 @@
 
 <p>
 <small>
-<strong>Catatan:</strong> Aplikasi ini berjalan murni di browser Anda. Tidak ada gambar atau data yang akan disimpan oleh aplikasi.
+<strong>Note:</strong> This app runs purely in your browser. No images or data will be saved by the app.
 </small>
 </p> 
 
