@@ -215,9 +215,9 @@ button {
   text-transform: uppercase;
   font-family: inherit;
   font-size: inherit;
-  padding: 1rem;
+  padding: 0.4rem;
   margin: 0 0 0.5rem 0;
-  margin-left: 1rem;
+  margin-right: 1rem;
   box-sizing: border-box;
   border: 1px solid #ccc;
   border-radius: 0.5rem;
