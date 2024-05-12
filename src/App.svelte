@@ -44,11 +44,11 @@
 <h2>Download Your Profile Photo</h2>
 <p>It's time to use your new profile picture! Just press the <strong>Download</strong> button of the photo you created to save it instantly. Share your support for Palestine with your unique profile photo.</p>
 
-<p>Apakah jawaban ini bermanfaat bagi Anda?</p>
+<p>Was this answer useful to you?</p>
 
 <p>
-<button data-modal-close>Ya</button> 
-<button data-modal-close>Tidak</button>
+<button data-modal-close>Yes</button> 
+<button data-modal-close>No</button>
 </p>
 
 </div>
