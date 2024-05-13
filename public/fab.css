@@ -1,7 +1,7 @@
 .author {
   background: url("https://avatars.githubusercontent.com/u/115649359?v=4") no-repeat center / contain;
   filter: drop-shadow(0 0 0.75rem crimson);
-  border: white double;
+  border: 1px dashed #fff;
   padding: 1rem;
   width: 50px;
   height: 50px;
