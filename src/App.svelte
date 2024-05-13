@@ -116,14 +116,7 @@
 </div>
 </div>
 
-<div class="at-about-fab">
-<div class="at-about-fab__thumbnail">
-<div></div>
-</div>
-<div class="at-about-fab__meta">
-<a href="/"><h2>FERRY AYUNDA</h2></a>
-</div>
-</div>
+<a class="author" href="https://codepen.io/erossavanka/" target="blank_"></a>
 </article>
 
 <style>
