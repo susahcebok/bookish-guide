@@ -24,9 +24,15 @@
   </h2>
 
 </body>
+  <!--
   <script>
   document.getElementById("url").innerHTML = 
 "" + window.location.pathname;
   </script>
+  -->
 
+  <script>
+      var str = document.documentURI;
+      document.getElementById("url").innerHTML = "" + str;
+   </script>
 </html>
