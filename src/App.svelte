@@ -116,7 +116,7 @@
 </div>
 </div>
 
-<a class="author" href="https://codepen.io/erossavanka/" target="blank_"></a>
+<a class="author" href="/" target="blank_"></a>
 </article>
 
 <style>
