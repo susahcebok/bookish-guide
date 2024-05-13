@@ -22,10 +22,26 @@
   <h2 style="  font-family: Verdana, sans-serif; color: #7d7d7d; font-weight: 300;">
     Halaman web di <strong><code id="url"></code></strong> mungkin sedang tidak aktif untuk sementara atau dipindahkan secara permanen ke alamat web baru.
   </h2>
-  
+
+  <p id = "alert"> </p>
 </body>
   <script>
   document.getElementById("url").innerHTML = 
 "" + window.location.pathname;
   </script>
+
+   <script>
+      var url = document.URL
+      var uri = document.documentURI
+      var urlDiv = document.getElementById("alert")
+      checkValidity()
+      function checkValidity(){
+         if(url == uri){
+            urlDiv.innerHTML = "Success !";
+         }
+         else{
+            urlDiv.innerHTML = "Failure !";
+         }
+      }
+   </script>
 </html>
