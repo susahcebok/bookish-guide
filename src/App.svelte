@@ -116,7 +116,7 @@
 </div>
 </div>
 
-<a class="author" href="/" target="blank_"></a>
+<p><a class="author" href="/" target="blank_"></a></p>
 </article>
 
 <style>
