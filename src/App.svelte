@@ -116,7 +116,6 @@
 </div>
 </div>
 
-<p><a class="author" href="https://github.com/susahcebok/bookish-guide" target="blank_"></a></p>
 </article>
 
 <style>
