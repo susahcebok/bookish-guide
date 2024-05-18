@@ -128,7 +128,7 @@
                padding: 2rem;
        }
 
-        span {
+        em {
                font-weight: bold;
         }
 	@media (max-width: 700px) {
