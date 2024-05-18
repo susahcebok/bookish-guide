@@ -1,6 +1,6 @@
 let shareData = {
-        title: 'Couple Twibbon',
-        text: 'Web Generated Couple Pictures',
+        title: 'PFP #SAVEPALESTINE',
+        text: 'Join the online revolution',
         url: 'https://savegazza.netlify.app/',
       }
 
