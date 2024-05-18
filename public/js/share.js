@@ -10,7 +10,7 @@ let shareData = {
       btn.addEventListener('click', () => {
         navigator.share(shareData)
           .then(() =>
-            resultPara.textContent = 'Couple Twibbon shared successfully'
+            resultPara.textContent = 'PFP #SAVEPALESTINE shared successfully'
           )
           .catch((e) =>
             resultPara.textContent = 'Error: Share canceled!'
