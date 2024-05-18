@@ -128,6 +128,9 @@
                padding: 2rem;
        }
 
+        span {
+               font-weight: bold;
+        }
 	@media (max-width: 700px) {
         article {
                margin: 0 auto;
