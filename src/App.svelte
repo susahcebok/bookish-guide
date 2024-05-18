@@ -116,6 +116,8 @@
 </div>
 </div>
 
+<p class="result"></p>
+<p>Share this Twibbon on your social media: <span><em>Share?</em></span>.</p>
 </article>
 
 <style>
